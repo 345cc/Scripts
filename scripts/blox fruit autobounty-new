@@ -42,5 +42,5 @@ spawn(function()
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/vinhuchi/temp-repos/main/FreeAutoBounty.lua'))()
 
 end)
-queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/vinhuchi/temp-repos/main/FreeAutoBounty.lua'))()")
+queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/345cc/Scripts/main/scripts/blox%20fruit%20autobounty-new'))()")
 print("done attached")
